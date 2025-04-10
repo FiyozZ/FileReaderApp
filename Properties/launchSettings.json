@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "FileReaderApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "LoopInterval": "8000",
+        "FolderPath": "E:\\Files",
+        "DestinationFolder": "E:\\DownloadFiles",
+        "DownloadLimit": "51200"
+      }
+    }
+  }
+}
